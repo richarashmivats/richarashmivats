@@ -1,9 +1,9 @@
 <div align="center"> <h1>Richa Rashmi, Ph.D.</h1> <p><img src="https://img.shields.io/badge/Bioinformatics-Expert-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Data%20Science-R%20%2F%20Python-blue?style=for-the-badge" /></p> <p> <b>Location:</b> College Station, TX &nbsp;|&nbsp; <b>Email:</b> <a href="mailto:richarashmivats@gmail.com">richarashmivats@gmail.com</a>  </div>
 
-👩🔬 About Me
+## 👩🔬 About Me
 <p> I am a <b>bioinformatics scientist</b> and <b>data analyst</b> specializing in multi-omics data analysis, algorithm development, and computational biology. My core expertise spans high-throughput data mining, machine learning, genomics, and scientific communication, with a focus on advancing biomedical research through reproducible data science. </p>
 
-🧬 Skills
+## 🧬 Skills
 <div> <table> <tr> <td><b>Programming &amp; Scripting</b></td> <td>R, Python, C, C++, Shell Scripting</td> </tr> <tr> <td><b>Bioinformatics Tools</b></td> <td>Bioconductor, BLAST, SAMtools, PyRosetta, BEDTools, Biopython, HPC</td> </tr> <tr> <td><b>Data Analysis</b></td> <td>Statistical modeling, Machine Learning (Scikit-learn), Data Mining, ggplot2, matplotlib, Seaborn</td> </tr> <tr> <td><b>Omics Tech</b></td> <td>RNA-seq, BS-seq, ChIP-seq, scRNA-seq, Microarray, WGS</td> </tr> <tr> <td><b>Databases</b></td> <td>GEO, TCGA, GTEx, ENCODE, dbGaP, UniProt, NCBI</td> </tr> <tr> <td><b>Statistical Analysis</b></td> <td>Linear Models, Regression, Hypothesis Testing</td> </tr> <tr> <td><b>Other</b></td> <td>Scientific Writing, Manuscript Preparation, Data &amp; Lab Management</td> </tr> </table> </div>
 
 ## 🏢 Professional Experience
@@ -24,7 +24,7 @@
   - Performed microarray data analysis for Type 2 Diabetes research using R and Bioconductor.
 
 
-🎓 Education
+## 🎓 Education
 <table> <tr> <td><b>Ph.D. in Bioinformatics</b><br>Indian Institute of Technology Gandhinagar</td> <td>2022<br> <i>Dissertation:</i> Conservation and disease association of THAP9 using sequence, structure, and expression data</td> </tr> <tr> <td><b>M.Tech. in Computational Biology</b><br>Indraprastha Institute of Information Technology Delhi</td> <td>2017<br> <i>Thesis:</i> Integrated gene expression analysis for Type 2 diabetes complications</td> </tr> <tr> <td><b>B.Tech. in Electronics & Communication Eng.</b><br>Punjab Technical University</td> <td>2014</td> </tr> </table>
 
 ## 📝 Publications
@@ -43,6 +43,6 @@
 - Intro to Machine Learning & Python (Kaggle)
 
 
-📫 Let's Connect
+## 📫 Let's Connect
 Interested in collaborating on bioinformatics, data science, or genomics research?
 ✉️ Email me or find details in the attached resume.

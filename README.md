@@ -35,7 +35,7 @@
 - *2024:* Bioinformatic analysis of THAP9 transposase homolog: conserved regions, novel motifs, Current Research in Structural Biology
 - *2022:* Pan-Cancer Analysis Reveals the Prognostic Potential of the THAP9/THAP9-AS1 Sense Antisense Gene Pair in Human Cancers, Noncoding RNA
 
-## 🏆 Key Certifications:**  
+## 🏆 Key Certifications: 
 - Introduction to Genomic Technologies (Coursera)  
 - Python for Genomic Data Science (Coursera)  
 - Algorithms for DNA Sequencing (Coursera)  

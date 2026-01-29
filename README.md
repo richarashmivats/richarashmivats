@@ -8,8 +8,11 @@
 
 ## 🏢 Professional Experience
 
+- **Georgia Cancer Center, Augusta University**  
+  *Bioinformatician 2 (Oct 2025 - Present)*  
+    
 - **Texas A&M Health Science Center**  
-  *Postdoctoral Research Associate (May 2022 – Present)*  
+  *Postdoctoral Research Associate (May 2022 – Oct 2025)*  
   - Developed an R-based algorithm for intronic polyadenylation site detection from RNA-seq data.  
   - Conducted DNA methylation and multi-omics analysis (TCGA, GTEx, ENCODE).  
   - Mentored >5 students in bioinformatics and managed lab resources.
